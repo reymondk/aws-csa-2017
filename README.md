@@ -1195,7 +1195,7 @@ No Free Tier usage available. Also available only in select regions. Takes sligh
 
   - Dynamo DB v/s RDS
 
-If you want push button scaling, without any downtown, you will always want to use DynamoDB.
+If you want push button scaling, without any downtime, you will always want to use DynamoDB.
 
 With RDS scaling is not so easy, you have to use a bigger instance or add read replicas (manual process).
 
